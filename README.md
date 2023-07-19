@@ -13,7 +13,7 @@
 <h2 align="center">
   Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> , I'm <b>Mangesh Khindre</b>
 </h2>
-<h2 align="center"> Full Stack Web Developer<br> <h3>Cyber Security Enthusiast</h3></h2>
+<h2 align="center"> Full Stack Web Developer</h2><br> <h3>Cyber Security Enthusiast</h3>
 
 
 
