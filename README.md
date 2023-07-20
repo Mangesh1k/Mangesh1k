@@ -138,14 +138,14 @@
    
 
 <p align="left">
-<img align="left" width="600" src="https://github-readme-stats.vercel.app/api/top-langs?username=narayan-chatalwar&show_icons=true&locale=en&layout=compact" alt="narayan-chatalwar" />
+<img align="left" width="600" src="https://github-readme-stats.vercel.app/api/top-langs?username=mangesh1k&show_icons=true&locale=en&layout=compact" alt="narayan-chatalwar" />
 </p> 
 
 
 
 <p align="left"><img align="left"  src="https://github-readme-stats.vercel.app/api?username=mangesh1k&show_icons=true&locale=en" alt="mangesh1k" /></p>
 
-<p align="left"><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=mangesh1k&" alt="narayan-chatalwar" /></p>
+<p align="left"><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=mangesh1k&" alt="mangesh1k" /></p>
 
 
 <!-- SUPPORT -->
