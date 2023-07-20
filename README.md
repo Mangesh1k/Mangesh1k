@@ -13,7 +13,7 @@
 <h2 align="center">
   Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> , I'm <b>Mangesh Khindre</b>
 </h2>
-<h2 align="center"> Full Stack Web Developer</h2><br> <h3>Cyber Security Enthusiast</h3>
+<h2 align="center"> Full Stack Web Developer</h2> <h3 align="center">Cyber Security Enthusiast</h3><br>
 
 
 
@@ -36,8 +36,8 @@
 - 🌱 I’m currently learning MERN & MEAN 
 - 🤔 I’m looking for help with developing AI skills..
 - 💬 Ask me about any MERN & MEAN related stuff
-- 📫 How to reach me narayanchatalwar@gmail.com
-- 📰 Connect with me on LinkedIn <a href="https://www.linkedin.com/in/narayan-chatalwar-09905121a/">LinkedIn/Narayan-Chatalwar<a/>
+- 📫 How to reach me khindremangesh0@gmail.com
+- 📰 Connect with me on LinkedIn <a href="https://www.linkedin.com/in/mangesh-khindre-5aa6301a0/">LinkedIn/Mangesh-Khindre<a/>
 - ⚡ Fun fact: **I Love to Explore...✈**
  <br>
 
@@ -70,12 +70,12 @@
 
 
 <p align="left">
-<a href="https://codepen.io/narayan-chatalwar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="narayan-chatalwar" height="30" width="40" /></a>
-<a href="https://twitter.com/@narayan1054" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@narayan1054" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/narayan-chatalwar-09905121a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/narayan-chatalwar-09905121a/" height="30" width="40" /></a>
-<a href="https://codesandbox.io/u/narayanchatalwar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="https://codesandbox.io/u/narayanchatalwar" height="30" width="40" /></a>
+<a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="narayan-chatalwar" height="30" width="40" /></a>
+<a href="https://twitter.com/@mangesh_1k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@narayan1054" height="30" width="40" /></a>
+<a href="[https://www.linkedin.com/in/narayan-chatalwar-09905121a/](https://www.linkedin.com/in/mangesh-khindre-5aa6301a0/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/narayan-chatalwar-09905121a/" height="30" width="40" /></a>
+<a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="https://codesandbox.io/u/narayanchatalwar" height="30" width="40" /></a>
 <a href="https://medium.com/@narayanchatalwar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@narayanchatalwar" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/narayanchatalwar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/narayanchatalwar" height="30" width="40" /></a>
+<a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/narayanchatalwar" height="30" width="40" /></a>
 </p>
 
 
@@ -129,14 +129,13 @@
 
 
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Narayan-Chatalwar)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Mangesh1k)
 
 
    
    <h5>Just a Snake 🐍 Eating away my Contributions...😭</h5>
    
    
-   ![snake gif](https://github.com/Narayan-Chatalwar/Narayan-Chatalwar/blob/output/github-contribution-grid-snake.gif)
 
 <p align="left">
 <img align="left" width="600" src="https://github-readme-stats.vercel.app/api/top-langs?username=narayan-chatalwar&show_icons=true&locale=en&layout=compact" alt="narayan-chatalwar" />
@@ -144,9 +143,9 @@
 
 
 
-<p align="left"><img align="left"  src="https://github-readme-stats.vercel.app/api?username=narayan-chatalwar&show_icons=true&locale=en" alt="narayan-chatalwar" /></p>
+<p align="left"><img align="left"  src="https://github-readme-stats.vercel.app/api?username=mangesh1k&show_icons=true&locale=en" alt="mangesh1k" /></p>
 
-<p align="left"><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=narayan-chatalwar&" alt="narayan-chatalwar" /></p>
+<p align="left"><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=mangesh1k&" alt="narayan-chatalwar" /></p>
 
 
 <!-- SUPPORT -->
